@@ -41,6 +41,10 @@ CMainFrame::CMainFrame()
 
 	//煎團曖 濛機
 	long long ll = 999;
+
+	//團薯曖濛機
+	int i = 999;
+	int iTemp = 999;
 }
 
 CMainFrame::~CMainFrame()
