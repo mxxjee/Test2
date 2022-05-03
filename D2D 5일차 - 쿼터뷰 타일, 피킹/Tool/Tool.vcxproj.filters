@@ -52,6 +52,9 @@
     <Filter Include="00. Basic\01. View\01. MiniView">
       <UniqueIdentifier>{44726890-653d-4d9f-b849-98f6382add6c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="하하하">
+      <UniqueIdentifier>{86915061-8825-47ea-9f6d-a5a4793b25b7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
