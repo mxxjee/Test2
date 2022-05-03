@@ -11,6 +11,8 @@ class CDevice
 
 	//구와악에 뿌아악
 
+
+	//머지를 시작한다...
 private:
 	CDevice();
 	~CDevice();
