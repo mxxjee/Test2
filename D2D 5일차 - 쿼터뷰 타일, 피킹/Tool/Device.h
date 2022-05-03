@@ -6,6 +6,9 @@ class CDevice
 {
 	DECLARE_SINGLETON(CDevice)
 
+	//왜안변해
+	//제대로해
+
 private:
 	CDevice();
 	~CDevice();
