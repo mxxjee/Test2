@@ -9,6 +9,8 @@ class CDevice
 	//¿Ö¾Èº¯ÇØ
 	//Á¦´ë·ÎÇØ
 
+	//±¸¿Í¾Ç¿¡ »Ñ¾Æ¾Ç
+
 private:
 	CDevice();
 	~CDevice();
