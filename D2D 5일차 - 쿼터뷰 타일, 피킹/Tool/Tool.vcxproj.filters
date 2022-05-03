@@ -55,6 +55,18 @@
     <Filter Include="99. TempFilter">
       <UniqueIdentifier>{b5932e51-93a2-427a-8e93-c94c16592d6f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="99. TempFilter\Romin">
+      <UniqueIdentifier>{757be726-af2d-4dc2-aec0-a45971339ba8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. TempFilter\Minze">
+      <UniqueIdentifier>{5361d22c-c136-40c5-96f0-b3c01d2cc933}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. TempFilter\Chang">
+      <UniqueIdentifier>{725c5116-421f-4555-9a61-bf1cf3f841b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. TempFilter\Joon">
+      <UniqueIdentifier>{741028f6-a236-458f-b2b4-8d5b41139079}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -105,6 +117,12 @@
     <ClInclude Include="MiniView.h">
       <Filter>00. Basic\01. View\01. MiniView</Filter>
     </ClInclude>
+    <ClInclude Include="CObj.h">
+      <Filter>02. Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlane.h">
+      <Filter>02. Texture\00. Single</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Tool.cpp">
@@ -145,6 +163,12 @@
     </ClCompile>
     <ClCompile Include="MiniView.cpp">
       <Filter>00. Basic\01. View\01. MiniView</Filter>
+    </ClCompile>
+    <ClCompile Include="CObj.cpp">
+      <Filter>02. Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlane.cpp">
+      <Filter>02. Texture\00. Single</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
